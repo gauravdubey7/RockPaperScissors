@@ -179,4 +179,4 @@ def lets_play(option):
       print("Invalid selection. Try again...")  #  if there's an invalid choice, the input will show again
 
 #  beginning of program        
-welcome()
+welcome to the game()
